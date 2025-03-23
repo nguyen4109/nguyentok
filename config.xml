@@ -1,1 +1,9 @@
-
+<UserScriptConfig>
+	<Script basedir="nguyenimpr" checkRemoteUpdates="1" dependhash="da39a3ee5e6b4b0d3255bfef95601890afd80709" description="" enabled="true" filename="nguyenimpr.user.js" installTime="1742760616378" modified="1742760694883" name="nguyenimpr" namespace="nguyen" noframes="false" runAt="document-end" updateMetaStatus="unknown" uuid="4560253d-5494-42d0-9df4-6c974c9eef80" version="1" installurl="file:///C:/GTA5/Data/profile/gm_scripts/nguyenimpr/nguyenimpr.user.js" updateurl="file:///C:/GTA5/Data/profile/gm_scripts/nguyenimpr/nguyenimpr.user.js">
+		<Grant>none</Grant>
+		<Match>https://m.facebook.com/*</Match>
+		<Match>https://www.instagram.com/*</Match>
+		<Match>https://t.co/*</Match>
+		<Match>https://l.facebook.com/*</Match>
+	</Script>
+</UserScriptConfig>
