@@ -52,7 +52,7 @@ divElement.setAttribute("id", "kopet01");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SUHU");
 
 anchorElement.textContent = "LADOMEK 2025 = 01";
 
@@ -68,7 +68,7 @@ divElement.setAttribute("id", "kopet02");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SUJI");
 
 anchorElement.textContent = "LADOMEK 2025 = 02";
 
@@ -84,7 +84,7 @@ divElement.setAttribute("id", "kopet03");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SURO");
 
 anchorElement.textContent = "LADOMEK 2025 = 03";
 
@@ -100,7 +100,7 @@ divElement.setAttribute("id", "kopet04");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SULU");
 
 anchorElement.textContent = "LADOMEK 2025 = 04";
 
@@ -116,7 +116,7 @@ divElement.setAttribute("id", "kopet05");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SUPAT");
 
 anchorElement.textContent = "LADOMEK 2025 = 05";
 
@@ -152,7 +152,7 @@ divElement.setAttribute("id", "kopet06");
 
 var anchorElement = document.createElement("a");
 
-anchorElement.setAttribute("href", "https://kuontol.com/");
+anchorElement.setAttribute("href", "https://smartsecuredtlink.com/s?a=269434&sm=49785&co=330885&mt=16&s1=SUMA");
 
 anchorElement.textContent = "LADOMEK 2025 = 06";
 
